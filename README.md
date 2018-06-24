@@ -1,2 +1,5 @@
 # cli4s
-POSIX-compliant Scala-native command line argument parser
+
+Scala-native POSIX-compliant command-line argument parsing library
+
+TODO: finish documenting
